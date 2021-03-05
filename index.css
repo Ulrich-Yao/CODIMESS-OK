@@ -485,3 +485,7 @@
                                     height: 5rem !important;
                                     background-color: #000 !important;
                                 }
+                                
+                                .mot {
+                                    text-decoration: underline!important;
+                                }
